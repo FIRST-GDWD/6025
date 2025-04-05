@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.absolute-heading {
+    font-size: 36px;
+}
+
+.absolute-paragraph {
+    font-size: 18px;
+}
+
+.relative-heading {
+    font-size: 5vw;
+}
+
+.relative-paragraph {
+    font-size: 2.5vw;
+}
+
+.absolute-image {
+    width: 300px;
+}
+
+.relative-image {
+    width: 50%;
+    /* max-width: 1000px;
+    min-width: 250px; */
+}
+
+.my-div {
+    width: 500px;
+    border: 10px solid blue;
+}
