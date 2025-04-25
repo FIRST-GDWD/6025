@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Micro+5&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: "Micro 5", sans-serif;
+}
+
+p {
+    font-family: "Doto", sans-serif;
+}
